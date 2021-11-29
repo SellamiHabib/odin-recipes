@@ -1,1 +1,3 @@
-To my future self, I hope you got better at doing Readme files.
+To my future self, I hope you've gotten better at doing Readme files.
+Objectives : 
+* Familiarize myself with HTML
